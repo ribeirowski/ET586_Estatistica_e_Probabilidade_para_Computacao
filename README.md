@@ -1,0 +1,2 @@
+# ET586_Estatistica_e_Probabilidade_para_Computacao
+Repositório dedicado a disciplina de Estatística e Probabilidade para Computação
