@@ -2,5 +2,5 @@
 Repositório dedicado a disciplina de Estatística e Probabilidade para Computação
 
 - **Lista 1 -** 10
-- **Lista 2 -** ...
-- **Lista 3 -** ...
+- **Lista 2 -** 9,9
+- **Lista 3 -** 10
